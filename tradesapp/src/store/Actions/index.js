@@ -1,0 +1,1 @@
+export {getTradeList} from './trade';
